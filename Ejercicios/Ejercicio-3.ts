@@ -7,3 +7,4 @@ console.log("avanzar");
 console.log("girar 90° a la derecha");
 console.log("avanzar");
 console.log("eliminar");
+//fin
