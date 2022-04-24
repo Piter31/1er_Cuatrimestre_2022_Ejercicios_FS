@@ -1,3 +1,4 @@
+//avanza y elimina todos los montos de tierra en su camino
 console.log("avanzar");
 console.log("eliminar");
 console.log("avanzar");
