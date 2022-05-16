@@ -10,4 +10,4 @@ document.getElementById("app").innerHTML = `
   </div>`;
 
 alert("esto es un mensaje");
-prompt("Hola");
+prompt("esto es un mensaje");
