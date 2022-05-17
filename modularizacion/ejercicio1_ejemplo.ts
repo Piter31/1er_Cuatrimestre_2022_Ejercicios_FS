@@ -1,7 +1,11 @@
-let mensaje: string = "Hola Global!!";
+//1er ejemplo
+
+let mensajeGlobal: string = "Hola Global!!";
 
 function ambitoVariable() {
-  let mensaje: string;
-  mensaje = "Hola Mundo!!";
-  console.log(mensaje);
+  let mensajeLocal: string;
+  mensajeLocal = "Hola Mundo!!";
+  console.log(mensajeLocal);
 }
+ambitoVariable();
+console.log(mensajeGlobal);
