@@ -2,7 +2,7 @@
 
 let num: number;
 let numeros: number[] = new Array(5);
-let indice: number;
+//let indice: number;
 
 for (indice = 0; indice < 5; indice++) {
   num = Number(prompt("Ingresar 5 numero diferentes:" + indice));
