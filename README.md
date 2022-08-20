@@ -1,2 +1,2 @@
-# 1er_Cuatrimestre_2022_Ejercicios_FS
+# 1er_Cuatrimestre_2022_Ejercicios_FS_TypeScript
 Created with CodeSandbox
